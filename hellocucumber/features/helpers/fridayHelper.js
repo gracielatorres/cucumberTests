@@ -3,7 +3,7 @@ module.exports = {
         if (today === "Friday") {
             return "TGIF";
         } else {
-            return "Nopen";
+            return "Nopennn";
         }
     }
 }
